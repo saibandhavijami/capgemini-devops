@@ -1,5 +1,6 @@
 //Modified by Bandhavi
 class A{
+  int a;
 void modify()
 {
   
