@@ -1,5 +1,6 @@
 //Added by Sai Bandhavi from Local Repository
 class A{
+int ab;
 void modify()
 {
   
